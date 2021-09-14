@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/users/14971386/deepraj-chawda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/14971386/deepraj-chawda" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14971386/deepraj-chawda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/14971386/deepraj-chawda" height="30" width="40" /></a>
 <a href="https://kaggle.com/deeprajchawda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deeprajchawda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpxjxos_9bwqn2nty8jzwrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpxjxos_9bwqn2nty8jzwrg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/deeprajchawda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/deeprajchawda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/deepraj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/deepraj_/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPxJXos_9bwQN2NTY8jZWrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpxjxos_9bwqn2nty8jzwrg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deeprajchawda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/deeprajchawda" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deepraj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/deepraj_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
