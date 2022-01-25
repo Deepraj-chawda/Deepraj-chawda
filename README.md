@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deeprajchawda@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iHm5DklZgoxyZ5rtcLcWZWXSrKrZdzcS/view?usp=sharing](https://drive.google.com/file/d/1iHm5DklZgoxyZ5rtcLcWZWXSrKrZdzcS/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1xF3LpGEBkwo5VlZPaeC3uzCN0hrlJc4s/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
